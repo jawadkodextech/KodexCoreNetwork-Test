@@ -1,0 +1,22 @@
+{
+  "name": "KodexCoreNetwork-Test",
+  "version": "0.1.0",
+  "summary": "A short description of KodexCoreNetwork-Test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jawad/KodexCoreNetwork-Test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jawad": "jawadali1008@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jawad/KodexCoreNetwork-Test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KodexCoreNetwork-Test/Classes/**/*"
+}

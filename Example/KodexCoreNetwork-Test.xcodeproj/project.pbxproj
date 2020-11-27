@@ -28,8 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2008F17F1B39E50CB545C748 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		49B94BA86C5832352B513191 /* KodexCoreNetwork-Test.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = "KodexCoreNetwork-Test.podspec"; path = "../KodexCoreNetwork-Test.podspec"; sourceTree = "<group>"; };
+		2008F17F1B39E50CB545C748 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		49B94BA86C5832352B513191 /* KodexCoreNetwork-Test.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "KodexCoreNetwork-Test.podspec"; path = "../KodexCoreNetwork-Test.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* KodexCoreNetwork-Test_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KodexCoreNetwork-Test_Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,7 +41,7 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		79864ABC4E9682AA8D0B93FC /* Pods_KodexCoreNetwork_Test_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KodexCoreNetwork_Test_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A912B1EFB20FFFE47E329204 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A912B1EFB20FFFE47E329204 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E3677F33441662BA0F8D84D3 /* Pods-KodexCoreNetwork-Test_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KodexCoreNetwork-Test_Example.release.xcconfig"; path = "Target Support Files/Pods-KodexCoreNetwork-Test_Example/Pods-KodexCoreNetwork-Test_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EDD1F61EA68ED03AAD6706CD /* Pods-KodexCoreNetwork-Test_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KodexCoreNetwork-Test_Example.debug.xcconfig"; path = "Target Support Files/Pods-KodexCoreNetwork-Test_Example/Pods-KodexCoreNetwork-Test_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		EF5672028FE4E9C73105A295 /* Pods_KodexCoreNetwork_Test_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KodexCoreNetwork_Test_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -77,7 +77,6 @@
 				FC1CEAB5FEE5C198DF1DA8C6 /* Pods-KodexCoreNetwork-Test_Tests.debug.xcconfig */,
 				F3A9C55878F823AFF4F8481C /* Pods-KodexCoreNetwork-Test_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -228,6 +227,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
