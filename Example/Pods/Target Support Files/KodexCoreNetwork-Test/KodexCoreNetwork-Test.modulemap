@@ -1,6 +1,0 @@
-framework module KodexCoreNetwork_Test {
-  umbrella header "KodexCoreNetwork-Test-umbrella.h"
-
-  export *
-  module * { export * }
-}
